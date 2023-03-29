@@ -1,0 +1,8 @@
+CSS
+
+linhas 5 e 6 fontes padrão;
+linha 10 - fonte do navegador seja de 10px, assim usar unidade de medida (rem);
+fr --> representa uma fração do espaço disponível no container do grid;
+list-style: none; - estilo da lista sem bolinha;
+gap --> define os espaços entre as linhas e colunas
+ícone: https://ionic.io/ionicons, inserir html antes fechamento do body;

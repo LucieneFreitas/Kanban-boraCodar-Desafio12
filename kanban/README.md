@@ -1,4 +1,4 @@
-upload
+
 <h1 align="center"> Kanban </h1>
 
 <p align="center">
@@ -18,26 +18,19 @@ upload
 <br>
 
 <p align="center">
-  <img alt="kanban" src="./github/kanban.png" width="100%">
+  <img alt="calculadora" src=".github/kanban.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- React
-- React-icons
-- Figma
+- HTML
+- CSS
 
-## 📚 Um pouco do que vimos nesse desafio
 
-- Projeto feito com Vite
-- Components
-- JSX
 
-## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1220368226816658013). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
